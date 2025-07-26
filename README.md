@@ -5,16 +5,28 @@ Powered by the [dictionaryapi.dev](https://dictionaryapi.dev/) API.
 
 🔗 **Live Demo**: [https://english-dictionary-veerendra.netlify.app](https://english-dictionary-veerendra.netlify.app)
 
+---
+
+## 🖼️ Screenshot
+
+![English Dictionary Screenshot](./screenshot.png)
+
+---
+
 ## 🛠 Features
 - Instant word meaning and pronunciation
 - Fetches real-time definitions
 - Clean and responsive layout
 - Audio pronunciation support
 
+---
+
 ## 🚀 How to Use
 1. Type a word in the input box.
 2. Press **Enter** or click the **Search** button.
 3. See the word's meaning and listen to its pronunciation.
+
+---
 
 ## 📦 Tech Stack
 - HTML
@@ -24,4 +36,4 @@ Powered by the [dictionaryapi.dev](https://dictionaryapi.dev/) API.
 
 ---
 
-Made with ❤️ by Veerendra Kumar
+> Made with ❤️ by **Veerendra Kumar**
